@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ankitkus563
+- 👋 Hi, I’m Ankit Kumar
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java and java script
 - 💞️ I’m looking to collaborate on with some who can help me improve my skills
